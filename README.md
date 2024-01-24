@@ -1,6 +1,6 @@
 # dice-roller
 
-This template should help get you started developing with Vue 3 in Vite.
+Dice roller front-end build with Vue 3 and Typescript. Project was generated using `npm create vue@latest` (using vite)
 
 ## Recommended IDE Setup
 
